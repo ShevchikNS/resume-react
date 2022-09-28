@@ -22,7 +22,7 @@
 }
 @media screen and (max-width: 727px) {
     .TableSkills {
-        padding-left: 2vh;
+        padding-left: 6vh;
     }
     .TitleSkills {
         font-feature-settings: "smcp", "c2sc";
