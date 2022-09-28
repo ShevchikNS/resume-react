@@ -1,22 +1,16 @@
+
+
+
+.AboutMe ul{
+    text-align: center;
+    padding-bottom: 2em;
+}
 .AboutTitle{
     font-variant: all-small-caps;
     color: black;
     font-size: 40px;
     text-align: center;
     padding: 1em;
-}
-.AboutTitle2{
-    font-size: 20px;
-    margin: 1.5em 1.5em 1.5em 1.5em;
-    padding: 0 5em 1em 5em;
-    line-height: 1.4em;
-}
-.AboutMe {
-    width: 100vh;
-}
-.AboutMe ul{
-    text-align: center;
-    padding-bottom: 2em;
 }
 .AboutMe ul li {
     margin-bottom: 25px;
@@ -28,9 +22,24 @@
     padding: 5px 15px;
     border-radius: 30px;
 }
+.AboutTitle2{
+    font-size: 20px;
+    margin: 1.5em 1.5em 1.5em 1.5em;
+    line-height: 1.4em;
+}
+@media screen and (min-width: 800px) {
 
-@media screen and (min-width: 391px) {
-    .AboutMe {
-        width: 100%;
+    .AboutTitle{
+        font-variant: all-small-caps;
+        color: black;
+        font-size: 40px;
+        text-align: center;
+        padding: 1em;
+    }
+    .AboutTitle2{
+        font-size: 20px;
+        margin: 1.5em 1.5em 1.5em 1.5em;
+        padding: 0 5em 1em 5em;
+        line-height: 1.4em;
     }
 }

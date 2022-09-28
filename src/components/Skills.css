@@ -22,8 +22,6 @@
 }
 @media screen and (max-width: 727px) {
     .TableSkills {
-        display: flex;
-        justify-content: space-between;
         padding-left: 2vh;
     }
     .TitleSkills {
@@ -33,7 +31,6 @@
         font-size: 40px;
         text-align: center;
         padding-bottom: 5vh;
-        width: 100vh;
     }
     .MySkills {
         font-variant: all-small-caps;
