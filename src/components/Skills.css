@@ -1,0 +1,54 @@
+.TitleSkills {
+    font-feature-settings: "smcp", "c2sc";
+    font-variant: all-small-caps;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 5vh;
+    width: 100%;
+}
+@media screen and (min-width: 728px) {
+    .TableSkills {
+        display: flex;
+        justify-content: space-around;
+        padding-left: 1em;
+        padding-bottom: 5vh;
+    }
+
+    .MySkills {
+        font-variant: all-small-caps;
+        margin-right: 1em;
+    }
+}
+@media screen and (max-width: 727px) {
+    .TableSkills {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 2vh;
+    }
+    .TitleSkills {
+        font-feature-settings: "smcp", "c2sc";
+        font-variant: all-small-caps;
+        color: black;
+        font-size: 40px;
+        text-align: center;
+        padding-bottom: 5vh;
+        width: 100vh;
+    }
+    .MySkills {
+        font-variant: all-small-caps;
+        margin-right: 1em;
+    }
+}
+.MySkills p {
+    font-size: 20px;
+}
+.ProgressLine {
+    background: black;
+    height: 12px;
+    width: 30vh;
+}
+.SingleProgressBar {
+    /*justify-content: space-between;*/
+
+}

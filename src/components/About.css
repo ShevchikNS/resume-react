@@ -1,0 +1,36 @@
+.AboutTitle{
+    font-variant: all-small-caps;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    padding: 1em;
+}
+.AboutTitle2{
+    font-size: 20px;
+    margin: 1.5em 1.5em 1.5em 1.5em;
+    padding: 0 5em 1em 5em;
+    line-height: 1.4em;
+}
+.AboutMe {
+    width: 100vh;
+}
+.AboutMe ul{
+    text-align: center;
+    padding-bottom: 2em;
+}
+.AboutMe ul li {
+    margin-bottom: 25px;
+    color: #a3a3a3;
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    margin: 5px;
+    padding: 5px 15px;
+    border-radius: 30px;
+}
+
+@media screen and (min-width: 391px) {
+    .AboutMe {
+        width: 100%;
+    }
+}

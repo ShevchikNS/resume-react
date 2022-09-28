@@ -1,0 +1,27 @@
+.ResumeTitle{
+    text-align: center;
+    font-variant: all-small-caps;
+    color: black;
+    font-size: 40px;
+    padding-bottom: 5vh;
+}
+.Portfolio{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+.MuiTimeline-positionRight.css-1wnygn3-MuiTimeline-root {
+    background: #f7f7f7;
+    font-size: 18px;
+}
+.Portfolio.css-ahj2mt-MuiTypography-root{
+    font-size: 18px;
+}
+.Portfolio.css-lxbhme-MuiTypography-root-MuiTimelineOppositeContent-root{
+    font-size: 18px;
+}
+.Portfolio.css-nnsfc0-MuiTypography-root{
+    font-size: 18px;
+}
+.ResumeBody{
+    width: 100vh;
+}
