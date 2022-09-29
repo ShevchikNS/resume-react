@@ -8,7 +8,7 @@ import {IconButton} from '@mui/material';
 
 const Home = () => {
     return (
-        <div className="MainPage">
+        <div className="MainPage" id="Home">
             <div className="bg" >
             {/*    style={{*/}
             {/*    backgroundImage: `url(${logo})`*/}

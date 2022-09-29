@@ -1,0 +1,55 @@
+@media screen and (max-width: 799px) {
+    .ContactForm {
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+        justify-content: center;
+        padding-left: 25%;
+    }
+}
+
+h1 {
+    text-align: center;
+    font-variant: all-small-caps;
+    font-size: 40px;
+}
+
+.ContactPage {
+    background: #f7f7f7;
+
+}
+@media screen and (min-width: 800px) {
+
+    .ContactForm {
+        display: flex;
+        flex-direction: column;
+        width: 40%;
+        justify-content: center;
+        padding-left: 30%;
+    }
+
+    .TextArea {
+        display: flex;
+        flex-flow: column;
+        flex-wrap: wrap;
+    }
+
+    .PersonInfo {
+        display: flex;
+        flex-flow: column;
+    }
+}
+.MuiFormControl-root.MuiTextField-root.css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    padding-bottom: 1vh;
+}
+.MuiInputBase-formControl.MuiInputBase-multiline.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root{
+    margin-bottom: 2vh;
+}
+.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.css-kf8vq1-MuiButtonBase-root-MuiButton-root{
+    width: -webkit-fill-available;
+    margin-bottom: 5vh;
+    height: 6vh;
+}
+.MuiInputBase-formControl.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    margin-bottom: 2vh;
+}

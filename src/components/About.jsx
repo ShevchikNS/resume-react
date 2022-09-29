@@ -2,7 +2,7 @@ import React from 'react';
 import './About.css'
 const About = () => {
     return (
-        <div className="AboutMe">
+        <div className="AboutMe" id="About">
             <h1 className="AboutTitle">About Me</h1>
             <p className="AboutTitle2">
                 About me. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias excepturi molestiae provident repellat similique veritatis voluptate.
@@ -12,7 +12,9 @@ const About = () => {
                 Aliquam asperiores explicabo ipsam libero nisi officiis?
             </p>
             <ul>
-                <li>HTML</li>
+                <li>
+                    HTML
+                </li>
                 <li>CSS</li>
                 <li>Bootstrap</li>
                 <li>Javascript</li>

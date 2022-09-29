@@ -13,16 +13,15 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
-import Tooltip from '@mui/material/Tooltip';
 import {createTheme, ThemeProvider} from '@mui/material/styles';
 import './navbar.css'
+import {Link} from "react-scroll";
 
 const drawerWidth = 240;
-const navItems = ['Home', 'About', 'Skills', 'Work', 'Blog', 'Contact'];
+const navItems = ['Home', 'About', 'Skills', 'Work', 'Contact'];
 const theme = createTheme({
     palette: {
         secondary: {
-            // This is green.A700 as hex.
             main: '#000000',
         },
     },
@@ -46,7 +45,9 @@ function DrawerAppBar(props) {
                 {navItems.map((item) => (
                     <ListItem key={item} disablePadding>
                         <ListItemButton sx={{textAlign: 'center'}} className="MobileButtons">
-                            <ListItemText primary={item}/>
+                            <ListItemText >
+                                <Link to= {item} spy={true} smooth={true} duration={500} >{item}</Link>
+                            </ListItemText>
                         </ListItemButton>
                     </ListItem>
                 ))}
@@ -81,7 +82,7 @@ function DrawerAppBar(props) {
                         <Box sx={{display: {xs: 'none', sm: 'block'}}}>
                             {navItems.map((item) => (
                                 <Button key={item} className="NavigateButtons" sx={{color: '#fff'}}>
-                                    {item}
+                                    <Link to= {item} spy={true} smooth={true} duration={500} >{item}</Link>
                                 </Button>
                             ))}
                         </Box>

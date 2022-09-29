@@ -50,23 +50,24 @@ export default function OppositeContentTimeline() {
                         </TimelineSeparator>
                         <TimelineContent>
                             <Typography  component="span" color="black" className="Portfolio">
-                                2021
+                                2019
                             </Typography>
                             <Typography  component="span" style={{padding:"5px"}} className="Portfolio">
                                 Attended Congniteq courses on React
                             </Typography>
                         </TimelineContent>
                     </TimelineItem>
+
                     <TimelineItem>
                         <TimelineOppositeContent color="black" className="Portfolio">
-                            1C Programmer
+                            Programmer
                         </TimelineOppositeContent>
                         <TimelineSeparator>
                             <TimelineDot/>
                         </TimelineSeparator>
                         <TimelineContent>
                             <Typography  component="span" color="black" className="Portfolio">
-                                2022-now
+                                2020-now
                             </Typography>
                             <Typography  component="span" style={{padding:"5px"}} className="Portfolio">
                                 Work with ERP 1C. I develop 1С software for the company. But sometimes I support users.

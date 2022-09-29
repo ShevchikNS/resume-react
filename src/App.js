@@ -1,19 +1,19 @@
 import './App.css';
-import DrawerAppBar from "./components/Navbar";
 import * as React from "react";
-import Home from "./components/Home";
-import About from "./components/About";
-import Skills from "./components/Skills";
-import Resume from "./components/Resume";
+
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import Main from "./components/Main";
+import ThankPage from "./components/ThankPage";
 
 function App() {
     return (
         <div className="App">
-            <DrawerAppBar/>
-            <Home/>
-            <About/>
-            <Skills/>
-            <Resume/>
+            <BrowserRouter>
+                <Routes>
+                    <Route path="/" element={<Main/>}/>
+                    <Route path="/ThankYou" element={<ThankPage/>}/>
+                </Routes>
+            </BrowserRouter>
         </div>
     );
 }

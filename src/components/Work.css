@@ -1,0 +1,25 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-feature-settings: "smcp", "c2sc";
+    font-variant: all-small-caps;
+    padding: 6vh 0 6vh 0;
+
+}
+
+
+@media screen and (min-width: 800px) {
+    .ProjectCards{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 0 0 4vh 0;
+    }
+}
+@media screen and (max-width: 799px) {
+    .ProjectCards{
+        padding-left: 2vh;
+    }
+    .MuiCardMedia-img.css-o69gx8-MuiCardMedia-root{
+        margin-top: 2vh;
+    }
+}
