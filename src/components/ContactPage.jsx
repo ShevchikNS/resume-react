@@ -2,10 +2,10 @@ import React from 'react'
 import './ContactPage.css'
 import {TextField} from "@mui/material";
 import Button from "@mui/material/Button";
-// import {useNavigate} from "react-router-dom";
+import {useNavigate} from "react-router-dom";
 
 const ContactPage = () => {
-    // const navigate = useNavigate();
+    const navigate = useNavigate();
 
     return (
         <div className="ContactPage" id="Contact">
@@ -39,6 +39,7 @@ const ContactPage = () => {
                         }}
                     />
                 </div>
+                <input type="hidden" name="_next" value={() => navigate("/ThankYou")}/>
                 <div className= "TextArea">
                     <TextField
                         id="outlined-basic"
