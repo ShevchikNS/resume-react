@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="create all blocks. Need change ThankPage.jsx" />
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="create all blocks. Need change ThankPage.jsx">
+      <change beforePath="$PROJECT_DIR$/src/components/ContactPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactPage.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
       <workItem from="1664370133259" duration="2567000" />
       <workItem from="1664429130372" duration="11841000" />
       <workItem from="1664450177679" duration="8372000" />
-      <workItem from="1664518836420" duration="427000" />
+      <workItem from="1664518836420" duration="722000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664368131303</created>
@@ -92,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664459519005</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create all blocks. Need change ThankPage.jsx">
+      <created>1664519364294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664519364295</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

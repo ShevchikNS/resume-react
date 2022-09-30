@@ -39,13 +39,13 @@ h1 {
         flex-flow: column;
     }
 }
-.MuiFormControl-root.MuiTextField-root.css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+.MuiFormControl-root.MuiTextField-root{
     padding-bottom: 1vh;
 }
-.MuiInputBase-formControl.MuiInputBase-multiline.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root{
+.MuiInputBase-formControl.MuiInputBase-multiline{
     margin-bottom: 2vh;
 }
-.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.css-kf8vq1-MuiButtonBase-root-MuiButton-root{
+.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium{
     width: -webkit-fill-available;
     margin-bottom: 5vh;
     height: 6vh;
