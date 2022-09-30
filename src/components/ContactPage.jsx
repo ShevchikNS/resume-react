@@ -61,7 +61,7 @@ const ContactPage = () => {
                             borderColor: "black",
                             fontVariant: "all-small-caps"
                         }}
-                        onClick={() => navigate("/ThankYou")}
+                        // onClick={() => navigate("/ThankYou")}
                     >
                         Submit
                     </Button>
