@@ -41,6 +41,7 @@ h1 {
 }
 .MuiFormControl-root.MuiTextField-root{
     padding-bottom: 1vh;
+    width: 100%;
 }
 .MuiInputBase-formControl.MuiInputBase-multiline{
     margin-bottom: 2vh;
