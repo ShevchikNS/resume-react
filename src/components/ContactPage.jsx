@@ -11,65 +11,28 @@ const ContactPage = () => {
         <div className="ContactPage" id="Contact">
             <h1>Contact Me!</h1>
             <form
-                className= "ContactForm"
+                className="ContactForm"
                 action="https://formsubmit.co/shevchikkola@gmail.com"
                 method="POST"
-                >
-                <div className= "PersonInfo">
-                    <TextField
-                        id="outlined-basic"
-                        label="Name"
-                        variant="outlined"
-                        required
-                        sx = {{
-                            color: "black",
-                            borderColor: "black",
-                            fontVariant: "all-small-caps"
-                        }}
-                    />
-                    <TextField
-                        id="outlined-basic"
-                        label="Email"
-                        variant="outlined"
-                        required
-                        sx = {{
-                            color: "black",
-                            borderColor: "black",
-                            fontVariant: "all-small-caps"
-                        }}
-                    />
+            >
+                <div className="PersonInfo">
+                    <input type="hidden" name="_subject" value="New mail from Portfolio page!"/>
+                    <TextField type="text" name="name" placeholder="Your name" required/>
+                    <TextField type="email" name="email" placeholder="Email Address" required/>
+                    <input type="hidden" name="_next" value="https://www.google.com/"/>
+                    <input type="hidden" name="_captcha" value="false"/>
                 </div>
-                <input type="hidden" name="_next" value={() => navigate("/ThankYou")}/>
-                <div className= "TextArea">
-                    <TextField
-                        id="outlined-basic"
-                        label="Your message"
-                        variant="outlined"
-                        multiline
-                        required
-                        sx = {{
-                            color: "black",
-                            borderColor: "black",
-                            fontVariant: "all-small-caps"
-                        }}
-                    />
-                    <Button
-                        type = "submit"
-                        variant="outlined"
-                        multiline
-                        sx = {{
-                            color: "black",
-                            borderColor: "black",
-                            fontVariant: "all-small-caps"
-                        }}
-                        // onClick={() => navigate("/ThankYou")}
-                    >
-                        Submit
-                    </Button>
+
+                <div className="TextArea">
+                    <TextField type="text" name="message" placeholder="Your message" required />
+                    <Button type="submit" >Submit</Button>
+                    <Button onClick={() => navigate('/ThankYou')} >123</Button>
+
                 </div>
             </form>
         </div>
-    );
+    )
+        ;
 };
 
 export default ContactPage;
