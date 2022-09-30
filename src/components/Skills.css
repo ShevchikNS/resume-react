@@ -45,6 +45,47 @@
     height: 12px;
     width: 30vh;
 }
+.HtmlProgressLine{
+    background: black;
+    height: 12px;
+    width: 30vh;
+}
+.BootstrapProgressLine{
+    background: black;
+    height: 12px;
+    width: 15vh;
+}
+.CSSProgressLine{
+    background: black;
+    height: 12px;
+    width: 23vh;
+}
+.SassProgressLine{
+    background: black;
+    height: 12px;
+    width: 20vh;
+}
+.GitProgressLine{
+    background: black;
+    height: 12px;
+    width: 20vh;
+}
+.JavascriptProgressLine{
+    background: black;
+    height: 12px;
+    width: 28vh;
+}
+.ReactProgressLine {
+    background: black;
+    height: 12px;
+    width: 20vh;
+}
+.ReduxProgressLine{
+    background: black;
+    height: 12px;
+    width: 20vh;
+}
+
 .SingleProgressBar {
     /*justify-content: space-between;*/
 

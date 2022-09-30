@@ -10,15 +10,15 @@ const Skills = () => {
                     <div className="SingleProgressBar">
                         <p>Html</p>
                         <div>
-                            <div className="ProgressLine"></div>
+                            <div className="HtmlProgressLine"></div>
                         </div>
                         <p>CSS</p>
                         <div>
-                            <div className="ProgressLine"></div>
+                            <div className="CSSProgressLine"></div>
                         </div>
                         <p>Bootstrap</p>
                         <div>
-                            <div className="ProgressLine"></div>
+                            <div className="BootstrapProgressLine"></div>
                         </div>
                     </div>
                 </div>
@@ -26,7 +26,7 @@ const Skills = () => {
                     <div className="SingleProgressBar">
                         <p>Sass</p>
                         <div>
-                            <div className="ProgressLine"></div>
+                            <div className="SassProgressLine"></div>
                         </div>
                         <p>1C</p>
                         <div>
@@ -34,7 +34,7 @@ const Skills = () => {
                         </div>
                         <p>Git</p>
                         <div>
-                            <div className="ProgressLine"></div>
+                            <div className="GitProgressLine"></div>
                         </div>
                     </div>
                 </div>
@@ -42,15 +42,15 @@ const Skills = () => {
                     <div className="SingleProgressBar">
                         <p>Javascript</p>
                         <div>
-                            <div className="ProgressLine"></div>
+                            <div className="JavascriptProgressLine"></div>
                         </div>
                         <p>React</p>
                         <div>
-                            <div className="ProgressLine"></div>
+                            <div className="ReactProgressLine"></div>
                         </div>
                         <p>Redux</p>
                         <div>
-                            <div className="ProgressLine"></div>
+                            <div className="ReduxProgressLine"></div>
                         </div>
                     </div>
                 </div>

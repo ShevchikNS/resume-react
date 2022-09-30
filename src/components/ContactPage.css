@@ -46,9 +46,10 @@ h1 {
     margin-bottom: 2vh;
 }
 .MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium{
-    width: -webkit-fill-available;
+    /*width: -webkit-fill-available;*/
     margin-bottom: 5vh;
     height: 6vh;
+    width: 100%;
 }
 .MuiInputBase-formControl.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
     margin-bottom: 2vh;
