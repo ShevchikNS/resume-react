@@ -2,10 +2,8 @@ import React from 'react'
 import './ContactPage.css'
 import {TextField} from "@mui/material";
 import Button from "@mui/material/Button";
-import {useNavigate} from "react-router-dom";
 
 const ContactPage = () => {
-    const navigate = useNavigate();
 
     return (
         <div className="ContactPage" id="Contact">
@@ -25,8 +23,7 @@ const ContactPage = () => {
 
                 <div className="TextArea">
                     <TextField type="text" name="message" placeholder="Your message" required />
-                    <Button type="submit" >Submit</Button>
-
+                    <Button type="submit" variant="outlined" sx = {{color:"black", borderColor:"black"}} >Submit</Button>
                 </div>
             </form>
         </div>
