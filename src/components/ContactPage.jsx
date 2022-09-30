@@ -19,7 +19,7 @@ const ContactPage = () => {
                     <input type="hidden" name="_subject" value="New mail from Portfolio page!"/>
                     <TextField type="text" name="name" placeholder="Your name" required/>
                     <TextField type="email" name="email" placeholder="Email Address" required/>
-                    <input type="hidden" name="_next" value="https://www.google.com/"/>
+                    <input type="hidden" name="_next" value="https://shevchik-resume.netlify.app/ThankYou"/>
                     <input type="hidden" name="_captcha" value="false"/>
                 </div>
 
