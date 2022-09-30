@@ -17,7 +17,10 @@ h1{
 }
 @media screen and (max-width: 799px) {
     .ProjectCards{
-        padding-left: 2vh;
+        display: flex;
+        flex-flow: column;
+        margin-left: 10%;
+        width: 80%;
     }
     .MuiCardMedia-img.css-o69gx8-MuiCardMedia-root{
         margin-top: 2vh;

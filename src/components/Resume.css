@@ -5,9 +5,11 @@
     font-size: 40px;
     padding-bottom: 5vh;
 }
+
 .Portfolio{
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
+    padding-right: 2vh;
 }
 .MuiTimeline-positionRight.css-1wnygn3-MuiTimeline-root {
     background: #f7f7f7;
@@ -23,5 +25,8 @@
     font-size: 18px;
 }
 .MuiTimelineSeparator-root.css-1fe7e6p-MuiTimelineSeparator-root{
-    padding-left: 3vh;
+    padding-left: 8vh;
+}
+.MuiTypography-body1.MuiTimelineOppositeContent-root.MuiTimelineOppositeContent-positionRight.Portfolio.css-lxbhme-MuiTypography-root-MuiTimelineOppositeContent-root{
+    width: 4vh;
 }
