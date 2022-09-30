@@ -5,11 +5,12 @@ const About = () => {
         <div className="AboutMe" id="About">
             <h1 className="AboutTitle">About Me</h1>
             <p className="AboutTitle2">
-                About me. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias excepturi molestiae provident repellat similique veritatis voluptate.
-                Ipsam natus sunt voluptate voluptatibus? Ab minima qui voluptate voluptatibus! Dolorem minus perspiciatis veritatis.
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                A aliquam aspernatur, eaque est facere facilis ipsa iste, iure, officia rem tenetur unde voluptas.
-                Aliquam asperiores explicabo ipsam libero nisi officiis?
+                About me.I graduated from Yanka Kupala Grodno State University, Faculty of Mathematics and Informatics.
+                During his studies, he took a course in React at Cogniteq.
+                After graduating from university, he got a job as a software engineer at Khimvolokno.
+                From January 2022 to April 2022, he took React courses from Intesoft. At the moment I am developing and supporting programs in the 1C language,
+                advising users on the ERP system, writing instructions for the 1C system, and also compiling reports on the errors found.
+                At the same time, I continue to study React and other technologies.
             </p>
             <ul>
                 <li>
