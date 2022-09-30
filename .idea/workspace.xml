@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/public/ThankPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ContactPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactPage.jsx" afterDir="false" />
     </list>
@@ -34,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo-react-redux" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../page" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -67,7 +66,7 @@
       <workItem from="1664429130372" duration="11841000" />
       <workItem from="1664450177679" duration="8372000" />
       <workItem from="1664518836420" duration="6107000" />
-      <workItem from="1664527324565" duration="2806000" />
+      <workItem from="1664527324565" duration="4728000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664368131303</created>
@@ -167,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664525798261</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fix">
+      <created>1664532535201</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664532535201</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix">
+      <created>1664532702086</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664532702086</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
