@@ -15,7 +15,7 @@
 .MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.NavigateButtons {
     padding: 20px 28px
 }
-.NavigateButtons.css-1kkpk3h-MuiButtonBase-root-MuiButton-root:hover {
+.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.NavigateButtons:hover {
     background-color: white;
     color: black;
 }

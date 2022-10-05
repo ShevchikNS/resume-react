@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change buttons and color of mobile menu">
-      <change beforePath="$PROJECT_DIR$/src/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.jsx" afterDir="false" />
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change text about Me">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1664782111878" duration="211000" />
       <workItem from="1664880542801" duration="21000" />
       <workItem from="1664968383331" duration="2066000" />
-      <workItem from="1664971786029" duration="751000" />
+      <workItem from="1664971786029" duration="1526000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664368131303</created>
@@ -261,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664972351473</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="change text about Me">
+      <created>1664972554729</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1664972554729</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +296,7 @@
     <MESSAGE value="fix" />
     <MESSAGE value="latest changes" />
     <MESSAGE value="change buttons and color of mobile menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="change buttons and color of mobile menu" />
+    <MESSAGE value="change text about Me" />
+    <option name="LAST_COMMIT_MESSAGE" value="change text about Me" />
   </component>
 </project>
