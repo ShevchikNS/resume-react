@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="fix">
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="latest changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Work.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +70,8 @@
       <workItem from="1664777033922" duration="83000" />
       <workItem from="1664782111878" duration="211000" />
       <workItem from="1664880542801" duration="21000" />
-      <workItem from="1664968383331" duration="1993000" />
+      <workItem from="1664968383331" duration="2066000" />
+      <workItem from="1664971786029" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664368131303</created>
@@ -235,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664546282679</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="latest changes">
+      <created>1664970840227</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1664970840227</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +266,7 @@
     <MESSAGE value="change style in ContactPage.css" />
     <MESSAGE value="change navbar.css" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="latest changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest changes" />
   </component>
 </project>
