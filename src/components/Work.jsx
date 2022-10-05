@@ -14,7 +14,7 @@ const Work = () => {
             <h1>Portfolio</h1>
             <div className= "ProjectCards">
                 <Card sx={{ maxWidth: 345 }}>
-                    <CardActionArea href="https://www.linkedin.com/in/nickshev">
+                    <CardActionArea href="https://shevchik-resume.netlify.app/">
                         <CardMedia
                             component="img"
                             height="140"
@@ -33,7 +33,7 @@ const Work = () => {
 
                 </Card>
                 <Card sx={{ maxWidth: 345 }}>
-                    <CardActionArea href="https://www.linkedin.com/in/nickshev">
+                    <CardActionArea href="https://todo-react-redux-6q7sii6ul-shevchikns.vercel.app/signin">
                         <CardMedia
                             component="img"
                             height="140"
