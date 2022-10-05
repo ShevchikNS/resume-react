@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="latest changes">
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.css" afterDir="false" />
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change buttons and color of mobile menu">
+      <change beforePath="$PROJECT_DIR$/src/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
       <workItem from="1664782111878" duration="211000" />
       <workItem from="1664880542801" duration="21000" />
       <workItem from="1664968383331" duration="2066000" />
-      <workItem from="1664971786029" duration="475000" />
+      <workItem from="1664971786029" duration="751000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664368131303</created>
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664972153528</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="change buttons and color of mobile menu">
+      <created>1664972351473</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1664972351473</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +287,7 @@
     <MESSAGE value="change navbar.css" />
     <MESSAGE value="fix" />
     <MESSAGE value="latest changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="latest changes" />
+    <MESSAGE value="change buttons and color of mobile menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="change buttons and color of mobile menu" />
   </component>
 </project>
