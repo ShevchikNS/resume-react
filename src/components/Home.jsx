@@ -3,17 +3,12 @@ import logo from "./img/photoComputer.jpg";
 import './Home.css'
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
-import InstagramIcon from '@mui/icons-material/Instagram';
 import {IconButton} from '@mui/material';
 
 const Home = () => {
     return (
         <div className="MainPage" id="Home">
             <div className="bg" >
-            {/*    style={{*/}
-            {/*    backgroundImage: `url(${logo})`*/}
-            {/*}}*/}
-
                 <img className="myImg" src={logo} alt="logo"/>
                 <h1 className="HomeTitle">Nikolai Shevchik</h1>
                 <h2 className="SubTitle">React developer in the future</h2>
