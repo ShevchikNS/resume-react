@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change navigate buttons">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change index.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +69,7 @@
       <workItem from="1664968383331" duration="2066000" />
       <workItem from="1664971786029" duration="2517000" />
       <workItem from="1665045804405" duration="99000" />
-      <workItem from="1666081809554" duration="148000" />
+      <workItem from="1666081809554" duration="229000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664368131303</created>
@@ -277,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664973345236</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="change index.html">
+      <created>1666082034304</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1666082034304</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +309,7 @@
     <MESSAGE value="change buttons and color of mobile menu" />
     <MESSAGE value="change text about Me" />
     <MESSAGE value="change navigate buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="change navigate buttons" />
+    <MESSAGE value="change index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="change index.html" />
   </component>
 </project>

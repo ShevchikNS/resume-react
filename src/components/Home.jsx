@@ -24,9 +24,6 @@ const Home = () => {
                     <IconButton href="https://github.com/ShevchikNS" target="_blank">
                         <GitHubIcon className="Icon" sx={{color: "white"}}/>
                     </IconButton>
-                    <IconButton href="https://www.instagram.com/nick.shev/" target="_blank">
-                        <InstagramIcon className="Icon" sx={{color: "white"}}/>
-                    </IconButton>
                 </div>
             </div>
         </div>
