@@ -85,7 +85,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 .JavascriptProgressLine{
     background: black;
     height: 12px;
-    width: 28vh;
+    width: 30vh;
 }
 .ReactProgressLine {
     background: black;

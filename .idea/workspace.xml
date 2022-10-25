@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="delete instagram link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,8 @@
       <workItem from="1664971786029" duration="2517000" />
       <workItem from="1665045804405" duration="99000" />
       <workItem from="1666081809554" duration="229000" />
-      <workItem from="1666601514707" duration="163000" />
+      <workItem from="1666601514707" duration="768000" />
+      <workItem from="1666684417367" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664368131303</created>
@@ -292,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666601581877</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="delete instagram link">
+      <created>1666601687868</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1666601687869</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
