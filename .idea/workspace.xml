@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change style">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Work.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <workItem from="1666081809554" duration="229000" />
       <workItem from="1666601514707" duration="768000" />
       <workItem from="1666684417367" duration="285000" />
-      <workItem from="1666685760441" duration="71000" />
+      <workItem from="1666685760441" duration="138000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664368131303</created>
@@ -308,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666684455003</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="change style">
+      <created>1666685841793</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1666685841793</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +344,7 @@
     <MESSAGE value="change navigate buttons" />
     <MESSAGE value="change index.html" />
     <MESSAGE value="delete instagram link" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete instagram link" />
+    <MESSAGE value="change style" />
+    <option name="LAST_COMMIT_MESSAGE" value="change style" />
   </component>
 </project>
