@@ -33,10 +33,13 @@
     padding-left: 8vh;
 }
 @media screen and (max-width: 799px) {
-    .MuiTimelineOppositeContent-root {
+    .Portfolio.MuiTimelineOppositeContent-root {
         position: absolute;
-        margin-left: 35%;
+        margin-left: 5%;
 
+    }
+    .MuiTimelineSeparator-root{
+        margin-left: 35%;
     }
 
     .MuiTypography-body1.MuiTimelineOppositeContent-root.MuiTimelineOppositeContent-positionRight.Portfolio.css-lxbhme-MuiTypography-root-MuiTimelineOppositeContent-root {
