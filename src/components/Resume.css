@@ -32,10 +32,20 @@
 .MuiTimelineSeparator-root.css-1fe7e6p-MuiTimelineSeparator-root{
     padding-left: 8vh;
 }
-.MuiTimelineOppositeContent-root{
-    margin:0
-}
-.MuiTypography-body1.MuiTimelineOppositeContent-root.MuiTimelineOppositeContent-positionRight.Portfolio.css-lxbhme-MuiTypography-root-MuiTimelineOppositeContent-root{
-    width: 4vh;
-    margin-left: 5%;
+@media screen and (max-width: 799px) {
+    .MuiTimelineOppositeContent-root {
+        position: absolute;
+        margin-left: 35%;
+
+    }
+
+    .MuiTypography-body1.MuiTimelineOppositeContent-root.MuiTimelineOppositeContent-positionRight.Portfolio.css-lxbhme-MuiTypography-root-MuiTimelineOppositeContent-root {
+        width: 4vh;
+        margin-left: 5%;
+        position: absolute;
+        /*margin-left: 35%;*/
+    }
+    .MuiTimelineSeparator-root {
+        margin-left: 15%;
+    }
 }
