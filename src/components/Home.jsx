@@ -11,7 +11,7 @@ const Home = () => {
             <div className="bg" >
                 <img className="myImg" src={logo} alt="logo"/>
                 <h1 className="HomeTitle">Nikolai Shevchik</h1>
-                <h2 className="SubTitle">React developer in the future</h2>
+                <h2 className="SubTitle">Junior Frontend Developer</h2>
                 <div className="HomeIcons">
                     <IconButton href="https://www.linkedin.com/in/nickshev" target="_blank">
                         <LinkedInIcon className="Icon" sx={{color: "white"}}/>

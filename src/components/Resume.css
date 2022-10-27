@@ -40,11 +40,9 @@
     .MuiTimelineSeparator-root{
         margin-left: 35%;
     }
-
     .MuiTypography-body1.MuiTimelineOppositeContent-root.MuiTimelineOppositeContent-positionRight.Portfolio.css-lxbhme-MuiTypography-root-MuiTimelineOppositeContent-root {
         width: 4vh;
         margin-left: 5%;
         position: absolute;
-        /*margin-left: 35%;*/
     }
 }
