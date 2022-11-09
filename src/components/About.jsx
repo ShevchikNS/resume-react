@@ -5,7 +5,7 @@ const About = () => {
         <div className="AboutMe" id="About">
             <h1 className="AboutTitle">About Me</h1>
             <p className="AboutTitle2">
-                About me.I graduated from Yanka Kupala Grodno State University, Faculty of Mathematics and Informatics.
+                I graduated from Yanka Kupala Grodno State University, Faculty of Mathematics and Informatics.
                 When I was studying, I completed courses in React at Cogniteq.
                 After graduating from university, I got a job as a software engineer at Khimvolokno.
                 From January 2022 to April 2022, I took React courses from Intesoft. At the moment I am developing and supporting programs in the 1C language,
