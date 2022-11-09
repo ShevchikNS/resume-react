@@ -8,7 +8,7 @@ const About = () => {
                 I graduated from Yanka Kupala Grodno State University, Faculty of Mathematics and Informatics.
                 When I was studying, I completed courses in React at Cogniteq.
                 After graduating from university, I got a job as a software engineer at Khimvolokno.
-                From January 2022 to April 2022, I took React courses from Intesoft. At the moment I am developing and supporting programs in the 1C language,
+                From January 2022 to April 2022, I took React courses from Intexsoft. At the moment I am developing and supporting programs in the 1C language,
                 advising users on the ERP system, writing instructions for the 1C system, and also compiling reports on the errors found.
                 At the same time, I continue to study React and other technologies.
             </p>
