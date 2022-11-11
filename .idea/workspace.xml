@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change title name" />
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change About.jsx" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +77,7 @@
       <workItem from="1666792224011" duration="817000" />
       <workItem from="1666848692858" duration="1541000" />
       <workItem from="1666850491444" duration="479000" />
+      <workItem from="1667984183852" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664368131303</created>
@@ -386,7 +387,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666850543778</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="change About.jsx">
+      <created>1667984248985</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1667984248986</updated>
+    </task>
+    <task id="LOCAL-00046" summary="change About.jsx">
+      <created>1667984286278</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1667984286278</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,6 +433,7 @@
     <MESSAGE value="delete instagram link" />
     <MESSAGE value="change style" />
     <MESSAGE value="change title name" />
-    <option name="LAST_COMMIT_MESSAGE" value="change title name" />
+    <MESSAGE value="change About.jsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="change About.jsx" />
   </component>
 </project>
