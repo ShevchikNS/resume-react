@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change index.html">
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="add key in About.jsx">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/About.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/ContactPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/Resume.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Resume.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/Skills.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Work.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/Work.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Work.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/navbar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,21 +85,7 @@
       <workItem from="1668172334728" duration="893000" />
       <workItem from="1668497458566" duration="310000" />
       <workItem from="1668502483305" duration="202000" />
-      <workItem from="1668672174844" duration="3888000" />
-    </task>
-    <task id="LOCAL-00001" summary="first commit">
-      <created>1664368131303</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1664368131303</updated>
-    </task>
-    <task id="LOCAL-00002" summary="first commit">
-      <created>1664372794539</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1664372794539</updated>
+      <workItem from="1668672174844" duration="4201000" />
     </task>
     <task id="LOCAL-00003" summary="first commit">
       <created>1664373056408</created>
@@ -443,7 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668497626220</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="change styles">
+      <created>1668681510581</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1668681510581</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add key in About.jsx">
+      <created>1668681568601</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1668681568601</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,6 +463,8 @@
     <MESSAGE value="change title name" />
     <MESSAGE value="change About.jsx" />
     <MESSAGE value="change index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="change index.html" />
+    <MESSAGE value="change styles" />
+    <MESSAGE value="add key in About.jsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="add key in About.jsx" />
   </component>
 </project>
