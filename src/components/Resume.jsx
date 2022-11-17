@@ -9,7 +9,7 @@ import TimelineOppositeContent, {
     timelineOppositeContentClasses,
 } from '@mui/lab/TimelineOppositeContent';
 import Typography from "@mui/material/Typography";
-import './Resume.css'
+import './styles/Resume.css'
 
 export default function OppositeContentTimeline() {
     return (

@@ -14,7 +14,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import {createTheme, ThemeProvider} from '@mui/material/styles';
-import './navbar.css'
+import './styles/navbar.css'
 import {Link} from "react-scroll";
 
 const drawerWidth = 240;
@@ -38,15 +38,15 @@ function DrawerAppBar(props) {
     const drawer = (
         <Box onClick={handleDrawerToggle} sx={{textAlign: 'center'}} className="MobileStyle">
             <Typography variant="h6" sx={{my: 2}}>
-                NS
+                NS1
             </Typography>
             <Divider/>
-            <List >
+            <List>
                 {navItems.map((item) => (
                     <ListItem key={item} disablePadding>
                         <ListItemButton sx={{textAlign: 'center'}} className="MobileButtons">
-                            <ListItemText >
-                                <Link to= {item} spy={true} smooth={true} duration={500} >{item}</Link>
+                            <ListItemText>
+                                <Link to={item} spy={true} smooth={true} duration={500}>{item}</Link>
                             </ListItemText>
                         </ListItemButton>
                     </ListItem>
@@ -80,11 +80,14 @@ function DrawerAppBar(props) {
                             NS
                         </Typography>
                         <Box sx={{display: {xs: 'none', sm: 'block'}}}>
-                            {navItems.map((item) => (
-                                <Button key={item} className="NavigateButtons" sx={{color: '#fff'}}>
-                                    <Link to= {item} spy={true} smooth={true} duration={500} >{item}</Link>
-                                </Button>
-                            ))}
+                            <div className="navLinks">
+                                {
+                                    navItems.map((item) => (
+                                        <Button key={item} className="NavigateButtons" sx={{color: '#fff'}}>
+                                            <Link to={item} spy={true} smooth={true} duration={500}>{item}</Link>
+                                        </Button>
+                                    ))}
+                            </div>
                         </Box>
                     </Toolbar>
                 </AppBar>

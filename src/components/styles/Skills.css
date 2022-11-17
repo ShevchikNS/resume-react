@@ -1,3 +1,6 @@
+#Skills {
+    padding-bottom: 10%;
+}
 .TitleSkills {
     font-feature-settings: "smcp", "c2sc";
     font-variant: all-small-caps;
@@ -21,8 +24,12 @@
     }
 }
 @media screen and (max-width: 727px) {
+    .TableSkills1 {
+        display: flex;
+    }
     .TableSkills {
-        padding-left: 6vh;
+        margin: auto;
+        flex-direction: column;
     }
     .TitleSkills {
         font-feature-settings: "smcp", "c2sc";
@@ -40,12 +47,15 @@
 @media only screen
 and (max-device-width: 1024px)
 and (-webkit-min-device-pixel-ratio: 2) {
-    .TableSkills {
+    .TitleSkills1 {
         display: flex;
-        justify-content: space-around;
-        padding-left: 1em;
+    }
+    .TableSkills {
+        /*justify-content: space-around;*/
+        /*padding-left: 1em;*/
         padding-bottom: 5vh;
-        align-items: center;
+        margin: auto;
+        padding-left: 10%;
         flex-direction: column;
     }
 }
@@ -90,14 +100,23 @@ and (-webkit-min-device-pixel-ratio: 2) {
 .ReactProgressLine {
     background: black;
     height: 12px;
-    width: 20vh;
+    width: 26vh;
 }
 .ReduxProgressLine{
     background: black;
     height: 12px;
+    width: 23vh;
+}
+.AngularProgressLine{
+    background: black;
+    height: 12px;
+    width: 22vh;
+}
+.TypescriptProgressLine{
+    background: black;
+    height: 12px;
     width: 20vh;
 }
-
 .SingleProgressBar {
     /*justify-content: space-between;*/
 

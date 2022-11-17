@@ -21,6 +21,7 @@ h1{
         flex-flow: column;
         margin-left: 10%;
         width: 80%;
+        padding-bottom: 10%;
     }
     .MuiCardMedia-img.css-o69gx8-MuiCardMedia-root{
         margin-top: 2vh;
