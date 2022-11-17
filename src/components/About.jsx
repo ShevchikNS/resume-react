@@ -14,7 +14,7 @@ const About = () => {
                 At the same time, I continue to study React and other technologies.
             </p>
             <ul>
-                {stack.map((el) => <li>{el}</li>)}
+                {stack.map((el) => <li key={el}>{el}</li>)}
             </ul>
         </div>
     );
