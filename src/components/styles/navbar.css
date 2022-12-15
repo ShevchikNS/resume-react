@@ -15,7 +15,9 @@
 .MuiBox-root.css-130f8nx {
     justify-content: space-evenly;
 }
-
+.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.NavigateButtons {
+    padding: 0 0 0 0;
+}
 .NavigateLinks {
     padding: 20px 28px
 }

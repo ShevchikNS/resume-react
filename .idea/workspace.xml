@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="add new project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change navigate buttons">
       <change beforePath="$PROJECT_DIR$/src/components/styles/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,14 +92,7 @@
       <workItem from="1668502483305" duration="202000" />
       <workItem from="1668672174844" duration="4848000" />
       <workItem from="1671082182143" duration="2691000" />
-      <workItem from="1671088693813" duration="1992000" />
-    </task>
-    <task id="LOCAL-00006" summary="change style in ContactPage.css">
-      <created>1664519594584</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1664519594584</updated>
+      <workItem from="1671088693813" duration="2381000" />
     </task>
     <task id="LOCAL-00007" summary="change navbar.css">
       <created>1664520093553</created>
@@ -441,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671083866103</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="change navigate buttons">
+      <created>1671090758141</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1671090758142</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +464,6 @@
     <MESSAGE value="latest changes" />
     <MESSAGE value="change buttons and color of mobile menu" />
     <MESSAGE value="change text about Me" />
-    <MESSAGE value="change navigate buttons" />
     <MESSAGE value="delete instagram link" />
     <MESSAGE value="change style" />
     <MESSAGE value="change title name" />
@@ -478,6 +473,7 @@
     <MESSAGE value="add key in About.jsx" />
     <MESSAGE value="change nav links" />
     <MESSAGE value="add new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new project" />
+    <MESSAGE value="change navigate buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="change navigate buttons" />
   </component>
 </project>
