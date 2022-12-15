@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="add key in About.jsx">
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change nav links">
+      <change afterPath="$PROJECT_DIR$/src/components/img/weather-app.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ThankPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/ThankPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ThankPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThankPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Work.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Учеба/resume-app&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Учеба/resume-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Учеба\resume-app\src\components\styles" />
       <recent name="D:\Учеба\resume-app\src\components" />
       <recent name="D:\Учеба\resume-app\src\styles" />
       <recent name="D:\Учеба\resume-app\src" />
@@ -85,14 +94,8 @@
       <workItem from="1668172334728" duration="893000" />
       <workItem from="1668497458566" duration="310000" />
       <workItem from="1668502483305" duration="202000" />
-      <workItem from="1668672174844" duration="4201000" />
-    </task>
-    <task id="LOCAL-00003" summary="first commit">
-      <created>1664373056408</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1664373056408</updated>
+      <workItem from="1668672174844" duration="4848000" />
+      <workItem from="1671082182143" duration="1432000" />
     </task>
     <task id="LOCAL-00004" summary="create all blocks. Need change ThankPage.jsx">
       <created>1664459519005</created>
@@ -430,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668681568601</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="change nav links">
+      <created>1668681737585</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1668681737585</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,6 +475,7 @@
     <MESSAGE value="change index.html" />
     <MESSAGE value="change styles" />
     <MESSAGE value="add key in About.jsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="add key in About.jsx" />
+    <MESSAGE value="change nav links" />
+    <option name="LAST_COMMIT_MESSAGE" value="change nav links" />
   </component>
 </project>

@@ -7,6 +7,7 @@ import Typography from '@mui/material/Typography';
 import {CardActionArea} from '@mui/material';
 import portfolio from "./img/portfolio.png";
 import todoProject from "./img/TodoList.png";
+import weather from "./img/weather-app.png"
 
 const Work = () => {
     return (
@@ -30,7 +31,6 @@ const Work = () => {
                             </Typography>
                         </CardContent>
                     </CardActionArea>
-
                 </Card>
                 <Card sx={{ maxWidth: 345 }}>
                     <CardActionArea href="https://todo-react-redux-6q7sii6ul-shevchikns.vercel.app/signin">
@@ -47,6 +47,24 @@ const Work = () => {
                             <Typography variant="body2" color="text.secondary">
                                 For React experience, I wrote todo list. Todo list was created on React with using Redux.
                                 Firebase database was used to store data.
+                            </Typography>
+                        </CardContent>
+                    </CardActionArea>
+                </Card>
+                <Card sx={{ maxWidth: 345 }}>
+                    <CardActionArea href="https://azot-weather.vercel.app/">
+                        <CardMedia
+                            component="img"
+                            height="140"
+                            image={weather}
+                            alt="green iguana"
+                        />
+                        <CardContent>
+                            <Typography gutterBottom variant="h5" component="div" >
+                                My Resume
+                            </Typography>
+                            <Typography variant="body2" color="text.secondary">
+                                For server side rendering (SSR) experience, I wrote weather application. Weather application was created on NextJs, React, data scraper (axios and cheerio)
                             </Typography>
                         </CardContent>
                     </CardActionArea>
