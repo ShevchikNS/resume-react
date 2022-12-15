@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change nav links">
-      <change afterPath="$PROJECT_DIR$/src/components/img/weather-app.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ThankPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/ThankPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ThankPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThankPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Work.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.jsx" afterDir="false" />
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="add new project">
+      <change beforePath="$PROJECT_DIR$/src/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,14 +91,7 @@
       <workItem from="1668497458566" duration="310000" />
       <workItem from="1668502483305" duration="202000" />
       <workItem from="1668672174844" duration="4848000" />
-      <workItem from="1671082182143" duration="1432000" />
-    </task>
-    <task id="LOCAL-00004" summary="create all blocks. Need change ThankPage.jsx">
-      <created>1664459519005</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1664459519005</updated>
+      <workItem from="1671082182143" duration="1640000" />
     </task>
     <task id="LOCAL-00005" summary="create all blocks. Need change ThankPage.jsx">
       <created>1664519364294</created>
@@ -440,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668681737585</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="add new project">
+      <created>1671083686915</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1671083686916</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,6 +472,7 @@
     <MESSAGE value="change styles" />
     <MESSAGE value="add key in About.jsx" />
     <MESSAGE value="change nav links" />
-    <option name="LAST_COMMIT_MESSAGE" value="change nav links" />
+    <MESSAGE value="add new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new project" />
   </component>
 </project>

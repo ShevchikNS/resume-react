@@ -1,7 +1,7 @@
 import React from 'react';
 import './styles/About.css'
 const About = () => {
-    const stack = ['Javascript', 'React', 'Redux', 'Angular', 'Git', '1C', 'HTML', 'CSS', 'Bootstrap']
+    const stack = ['Javascript', 'React', 'Redux', 'NextJs', 'Angular', 'Typescript', 'Git', '1C', 'HTML', 'CSS', 'Bootstrap']
     return (
         <div className="AboutMe" id="About">
             <h1 className="AboutTitle">About Me</h1>
