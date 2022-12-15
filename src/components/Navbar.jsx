@@ -46,7 +46,7 @@ function DrawerAppBar(props) {
                     <ListItem key={item} disablePadding>
                         <ListItemButton sx={{textAlign: 'center'}} className="MobileButtons">
                             <ListItemText>
-                                <Link to={item} spy={true} smooth={true} duration={500}>{item}</Link>
+                                <Link className="MobileLinks" to={item} spy={true} smooth={true} duration={500}>{item}</Link>
                             </ListItemText>
                         </ListItemButton>
                     </ListItem>
@@ -84,7 +84,7 @@ function DrawerAppBar(props) {
                                 {
                                     navItems.map((item) => (
                                         <Button key={item} className="NavigateButtons" sx={{color: '#fff'}}>
-                                            <Link to={item} spy={true} smooth={true} duration={500}>{item}</Link>
+                                            <Link to={item} className="NavigateLinks"  spy={true} smooth={true} duration={500}>{item}</Link>
                                         </Button>
                                     ))}
                             </div>

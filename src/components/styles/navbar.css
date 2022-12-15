@@ -1,42 +1,51 @@
-@media (min-width: 900px){
+@media (min-width: 900px) {
     .MuiBox-root.css-130f8nx {
         display: flex;
         justify-content: space-evenly;
         margin-right: 25%;
         width: 50%;
     }
+
     .navLinks {
         display: flex;
         gap: 30px;
     }
-    }
+}
 
 .MuiBox-root.css-130f8nx {
     justify-content: space-evenly;
 }
 
-.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.NavigateButtons {
+.NavigateLinks {
     padding: 20px 28px
+}
+.MobileLinks {
+    padding: 14px 80px;
 }
 .MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.NavigateButtons:hover {
     background-color: white;
     color: black;
 }
-.MuiPaper-elevation.MuiPaper-elevation16.MuiDrawer-paper.MuiDrawer-paperAnchorLeft{
+
+.MuiPaper-elevation.MuiPaper-elevation16.MuiDrawer-paper.MuiDrawer-paperAnchorLeft {
     background-color: black;
     color: white;
 }
-.MuiBox-root.css-19kzrtu{
-   padding: 0 0;
-}
-.MuiBox-root.css-k008qs{
+
+.MuiBox-root.css-19kzrtu {
     padding: 0 0;
 }
-@media (min-width: 600px){
-    .MuiToolbar-gutters.MuiToolbar-regular.css-hyum1k-MuiToolbar-root{
+
+.MuiBox-root.css-k008qs {
+    padding: 0 0;
+}
+
+@media (min-width: 600px) {
+    .MuiToolbar-gutters.MuiToolbar-regular.css-hyum1k-MuiToolbar-root {
         min-height: 57px;
     }
 }
+
 @media only screen
 and (max-device-width: 1024px)
 and (-webkit-min-device-pixel-ratio: 2) {
