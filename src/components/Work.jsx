@@ -45,7 +45,7 @@ const Work = () => {
                                 TodoList
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
-                                For React experience, I wrote todo list. Todo list was created on React with using Redux.
+                                Todo list was created on React with using Redux.
                                 Firebase database was used to store data.
                             </Typography>
                         </CardContent>
@@ -61,10 +61,10 @@ const Work = () => {
                         />
                         <CardContent>
                             <Typography gutterBottom variant="h5" component="div" >
-                                My Resume
+                                Weather application
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
-                                For server side rendering (SSR) experience, I wrote weather application. Weather application was created on NextJs, React, data scraper (axios and cheerio)
+                                Weather application was created on NextJs, React, data scraper (axios and cheerio)
                             </Typography>
                         </CardContent>
                     </CardActionArea>
