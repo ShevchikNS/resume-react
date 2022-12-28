@@ -15,7 +15,7 @@ const Work = () => {
             <h1>Portfolio</h1>
             <div className= "ProjectCards">
                 <Card sx={{ maxWidth: 345 }}>
-                    <CardActionArea href="https://shevchik-resume.netlify.app/">
+                    <CardActionArea href="https://shevchik-resume.netlify.app/" target="_blank">
                         <CardMedia
                             component="img"
                             height="140"
@@ -33,7 +33,7 @@ const Work = () => {
                     </CardActionArea>
                 </Card>
                 <Card sx={{ maxWidth: 345 }}>
-                    <CardActionArea href="https://todo-react-redux-6q7sii6ul-shevchikns.vercel.app/signin">
+                    <CardActionArea href="https://todo-react-redux-6q7sii6ul-shevchikns.vercel.app/signin" target="_blank">
                         <CardMedia
                             component="img"
                             height="140"
@@ -41,7 +41,7 @@ const Work = () => {
                             alt="green iguana"
                         />
                         <CardContent>
-                            <Typography gutterBottom variant="h5" component="div" >
+                            <Typography gutterBottom variant="h5" component="div">
                                 TodoList
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
@@ -52,7 +52,7 @@ const Work = () => {
                     </CardActionArea>
                 </Card>
                 <Card sx={{ maxWidth: 345 }}>
-                    <CardActionArea href="https://azot-weather.vercel.app/">
+                    <CardActionArea href="https://azot-weather.vercel.app/" target="_blank">
                         <CardMedia
                             component="img"
                             height="140"
@@ -60,7 +60,7 @@ const Work = () => {
                             alt="green iguana"
                         />
                         <CardContent>
-                            <Typography gutterBottom variant="h5" component="div" >
+                            <Typography gutterBottom variant="h5" component="div">
                                 Weather application
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
