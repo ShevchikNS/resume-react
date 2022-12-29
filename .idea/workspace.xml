@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change text" />
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change photo and links">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Work.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,18 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Учеба/resume-app&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Учеба/resume-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Учеба\resume-app\src\components\styles" />
@@ -93,13 +97,8 @@
       <workItem from="1671088693813" duration="3132000" />
       <workItem from="1671177235135" duration="133000" />
       <workItem from="1671178786613" duration="132000" />
-    </task>
-    <task id="LOCAL-00009" summary="fix">
-      <created>1664521668180</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1664521668180</updated>
+      <workItem from="1672233766244" duration="963000" />
+      <workItem from="1672295834104" duration="1616000" />
     </task>
     <task id="LOCAL-00010" summary="fix">
       <created>1664522048373</created>
@@ -437,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671178913486</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="change photo and links">
+      <created>1672233977440</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1672233977440</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,6 +481,7 @@
     <MESSAGE value="add new project" />
     <MESSAGE value="change navigate buttons" />
     <MESSAGE value="change text" />
-    <option name="LAST_COMMIT_MESSAGE" value="change text" />
+    <MESSAGE value="change photo and links" />
+    <option name="LAST_COMMIT_MESSAGE" value="change photo and links" />
   </component>
 </project>
