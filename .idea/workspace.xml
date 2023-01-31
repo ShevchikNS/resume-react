@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change photo and links">
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change code style">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Work.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Resume.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/Resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/Resume.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +38,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Учеба/resume-app",
+    "last_opened_file_path": "D:/Learning/resume-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,14 +99,15 @@
       <workItem from="1671177235135" duration="133000" />
       <workItem from="1671178786613" duration="132000" />
       <workItem from="1672233766244" duration="963000" />
-      <workItem from="1672295834104" duration="1616000" />
-    </task>
-    <task id="LOCAL-00010" summary="fix">
-      <created>1664522048373</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1664522048373</updated>
+      <workItem from="1672295834104" duration="1769000" />
+      <workItem from="1672298628453" duration="1058000" />
+      <workItem from="1672734831814" duration="1494000" />
+      <workItem from="1672746603976" duration="14000" />
+      <workItem from="1673262013804" duration="4138000" />
+      <workItem from="1673332692501" duration="1436000" />
+      <workItem from="1673345588428" duration="1878000" />
+      <workItem from="1674566650848" duration="23000" />
+      <workItem from="1675167424728" duration="4968000" />
     </task>
     <task id="LOCAL-00011" summary="fix">
       <created>1664523639390</created>
@@ -443,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672233977440</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="change code style">
+      <created>1672297552125</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1672297552125</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,6 +491,7 @@
     <MESSAGE value="change navigate buttons" />
     <MESSAGE value="change text" />
     <MESSAGE value="change photo and links" />
-    <option name="LAST_COMMIT_MESSAGE" value="change photo and links" />
+    <MESSAGE value="change code style" />
+    <option name="LAST_COMMIT_MESSAGE" value="change code style" />
   </component>
 </project>

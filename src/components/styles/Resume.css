@@ -1,4 +1,4 @@
-.ResumeTitle{
+.ResumeTitle {
     text-align: center;
     font-variant: all-small-caps;
     color: black;
@@ -6,43 +6,47 @@
     padding-bottom: 5vh;
 }
 
-.Portfolio{
+.Portfolio {
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
     padding-right: 2vh;
 }
+
 .MuiTimelineOppositeContent-root {
     display: flex;
     place-content: center;
     padding: 6px 0 16px 0;
 }
+
 .MuiTimeline-positionRight.css-1wnygn3-MuiTimeline-root {
     background: #f7f7f7;
     font-size: 18px;
 }
-.Portfolio.css-ahj2mt-MuiTypography-root{
+
+.Portfolio.css-ahj2mt-MuiTypography-root {
     font-size: 18px;
 }
-.Portfolio.css-lxbhme-MuiTypography-root-MuiTimelineOppositeContent-root{
+
+.Portfolio.css-lxbhme-MuiTypography-root-MuiTimelineOppositeContent-root {
+    font-size: 18px;
+    display: inline-block;
+    width: 50%;
+}
+
+.Portfolio.css-nnsfc0-MuiTypography-root {
     font-size: 18px;
 }
-.Portfolio.css-nnsfc0-MuiTypography-root{
-    font-size: 18px;
-}
-.MuiTimelineSeparator-root.css-1fe7e6p-MuiTimelineSeparator-root{
-    padding-left: 8vh;
-}
+
+
 @media screen and (max-width: 799px) {
-    .Portfolio.MuiTimelineOppositeContent-root {
-        position: absolute;
-        margin-left: 5%;
-    }
-    .MuiTimelineSeparator-root{
-        margin-left: 35%;
-    }
+
     .MuiTypography-body1.MuiTimelineOppositeContent-root.MuiTimelineOppositeContent-positionRight.Portfolio.css-lxbhme-MuiTypography-root-MuiTimelineOppositeContent-root {
-        width: 4vh;
-        margin-left: 5%;
-        position: absolute;
+        justify-content: right;
+        margin-left: -5%;
+    }
+}
+@media screen and (min-width: 800px) {
+    .MuiTimelineItem-root {
+        width: 80%;
     }
 }

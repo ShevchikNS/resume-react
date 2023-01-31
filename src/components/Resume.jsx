@@ -18,7 +18,7 @@ export default function OppositeContentTimeline() {
                 <Timeline
                     sx={{
                         [`& .${timelineOppositeContentClasses.root}`]: {
-                            flex: 0.2,
+
                         },
                     }}
                 >
@@ -60,7 +60,7 @@ export default function OppositeContentTimeline() {
 
                     <TimelineItem>
                         <TimelineOppositeContent color="black" className="Portfolio">
-                            Programmer
+                            Software developer
                         </TimelineOppositeContent>
                         <TimelineSeparator>
                             <TimelineDot/>
