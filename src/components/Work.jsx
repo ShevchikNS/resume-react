@@ -8,6 +8,7 @@ import {CardActionArea} from '@mui/material';
 import portfolio from "./img/portfolio.png";
 import todoProject from "./img/TodoList.png";
 import weather from "./img/weather-app.png"
+import todoAngular from "./img/TodoAngular.png"
 
 const Work = () => {
     const projects = [
@@ -28,6 +29,12 @@ const Work = () => {
             imageUrl: weather,
             description: 'Weather application was created on NextJs, React, data scraper (axios and cheerio)',
             projectLink: 'https://azot-weather.vercel.app/'
+        },
+        {
+            projectName: 'TodoList with Angular',
+            imageUrl: todoAngular,
+            description: 'Todo list with Angular. The project in process.',
+            projectLink: 'https://todo-app-angular-in-process.vercel.app/todos'
         }
     ]
     return (
