@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="change code style">
+    <list default="true" id="0c3ca5bf-b3d3-41b6-b143-2e03e0803a49" name="Changes" comment="Add image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Work.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,28 +108,8 @@
       <workItem from="1674566650848" duration="23000" />
       <workItem from="1675167424728" duration="5576000" />
       <workItem from="1688031228682" duration="80000" />
-      <workItem from="1688038465630" duration="262000" />
-    </task>
-    <task id="LOCAL-00012" summary="fix">
-      <created>1664524953891</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1664524953891</updated>
-    </task>
-    <task id="LOCAL-00013" summary="fix">
-      <created>1664524965249</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1664524965249</updated>
-    </task>
-    <task id="LOCAL-00014" summary="fix">
-      <created>1664525798261</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1664525798261</updated>
+      <workItem from="1688038465630" duration="1239000" />
+      <workItem from="1708422551123" duration="615000" />
     </task>
     <task id="LOCAL-00015" summary="fix">
       <created>1664532535201</created>
@@ -453,7 +433,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675172617283</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Add 1 project in Work.jsx">
+      <created>1688038775520</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1688038775521</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Add image">
+      <created>1688038792351</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1688038792351</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Add image">
+      <created>1688039423280</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1688039423280</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,6 +494,8 @@
     <MESSAGE value="change text" />
     <MESSAGE value="change photo and links" />
     <MESSAGE value="change code style" />
-    <option name="LAST_COMMIT_MESSAGE" value="change code style" />
+    <MESSAGE value="Add 1 project in Work.jsx" />
+    <MESSAGE value="Add image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add image" />
   </component>
 </project>
